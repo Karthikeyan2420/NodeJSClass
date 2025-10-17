@@ -1,0 +1,22 @@
+{
+  "name": "nodejsclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_Class.js",
+  "scripts": {
+    "start":"node 2_class.js",  
+    "nothing" : "node 2_class.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthikeyan2420/NodeJSClass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthikeyan2420/NodeJSClass/issues"
+  },
+  "homepage": "https://github.com/Karthikeyan2420/NodeJSClass#readme"
+}
