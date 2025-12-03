@@ -1,0 +1,2 @@
+Hello, this is Node.js File System Example!
+Appending new data to file.

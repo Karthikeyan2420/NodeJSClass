@@ -4,19 +4,22 @@
   "description": "",
   "main": "1_Class.js",
   "scripts": {
-    "start":"node 2_class.js",  
-    "nothing" : "node 2_class.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node 1_Class.js",
+    "dev": "node 1_Class.js",
+    "test": "just show think"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Karthikeyan2420/NodeJSClass.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "karthikeyan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Karthikeyan2420/NodeJSClass/issues"
   },
-  "homepage": "https://github.com/Karthikeyan2420/NodeJSClass#readme"
+  "homepage": "https://github.com/Karthikeyan2420/NodeJSClass#readme",
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  }
 }

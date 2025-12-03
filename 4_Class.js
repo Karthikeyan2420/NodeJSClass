@@ -8,6 +8,10 @@ function greet(name, callback) {
 function sayBye() {
     console.log("Goodbye!");
 }
-
+function sendmsg()
+{
+    console.log("message sent")
+}
 // pass 'sayBye' as callback
 greet("John", sayBye);
+greet("harish", sendmsg)
